@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe.config
+C:\Users\Pat\source\repos\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe
+C:\Users\Pat\source\repos\TipCalculator\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\Users\Pat\source\repos\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\TipCalculator\TipCalculator\obj\Debug\TipCalculator.exe
+C:\Users\Pat\source\repos\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\IfElseExamples\IfElseExamples\bin\Debug\IfElseExamples.exe.config
+C:\Users\Pat\source\repos\IfElseExamples\IfElseExamples\bin\Debug\IfElseExamples.exe
+C:\Users\Pat\source\repos\IfElseExamples\IfElseExamples\bin\Debug\IfElseExamples.pdb
+C:\Users\Pat\source\repos\IfElseExamples\IfElseExamples\obj\Debug\IfElseExamples.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\IfElseExamples\IfElseExamples\obj\Debug\IfElseExamples.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\IfElseExamples\IfElseExamples\obj\Debug\IfElseExamples.exe
+C:\Users\Pat\source\repos\IfElseExamples\IfElseExamples\obj\Debug\IfElseExamples.pdb

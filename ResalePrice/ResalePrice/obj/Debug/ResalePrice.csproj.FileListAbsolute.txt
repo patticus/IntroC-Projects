@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\ResalePrice\ResalePrice\bin\Debug\ResalePrice.exe.config
+C:\Users\Pat\source\repos\ResalePrice\ResalePrice\bin\Debug\ResalePrice.exe
+C:\Users\Pat\source\repos\ResalePrice\ResalePrice\bin\Debug\ResalePrice.pdb
+C:\Users\Pat\source\repos\ResalePrice\ResalePrice\obj\Debug\ResalePrice.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\ResalePrice\ResalePrice\obj\Debug\ResalePrice.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\ResalePrice\ResalePrice\obj\Debug\ResalePrice.exe
+C:\Users\Pat\source\repos\ResalePrice\ResalePrice\obj\Debug\ResalePrice.pdb

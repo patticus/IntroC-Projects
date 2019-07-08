@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\Quarterback\Quarterback\bin\Debug\Quarterback.exe.config
+C:\Users\Pat\source\repos\Quarterback\Quarterback\bin\Debug\Quarterback.exe
+C:\Users\Pat\source\repos\Quarterback\Quarterback\bin\Debug\Quarterback.pdb
+C:\Users\Pat\source\repos\Quarterback\Quarterback\obj\Debug\Quarterback.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\Quarterback\Quarterback\obj\Debug\Quarterback.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\Quarterback\Quarterback\obj\Debug\Quarterback.exe
+C:\Users\Pat\source\repos\Quarterback\Quarterback\obj\Debug\Quarterback.pdb

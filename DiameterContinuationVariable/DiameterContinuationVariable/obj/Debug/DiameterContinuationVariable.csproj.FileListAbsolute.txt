@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\DiameterContinuationVariable\DiameterContinuationVariable\bin\Debug\DiameterContinuationVariable.exe.config
+C:\Users\Pat\source\repos\DiameterContinuationVariable\DiameterContinuationVariable\bin\Debug\DiameterContinuationVariable.exe
+C:\Users\Pat\source\repos\DiameterContinuationVariable\DiameterContinuationVariable\bin\Debug\DiameterContinuationVariable.pdb
+C:\Users\Pat\source\repos\DiameterContinuationVariable\DiameterContinuationVariable\obj\Debug\DiameterContinuationVariable.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\DiameterContinuationVariable\DiameterContinuationVariable\obj\Debug\DiameterContinuationVariable.exe
+C:\Users\Pat\source\repos\DiameterContinuationVariable\DiameterContinuationVariable\obj\Debug\DiameterContinuationVariable.pdb
+C:\Users\Pat\source\repos\DiameterContinuationVariable\DiameterContinuationVariable\obj\Debug\DiameterContinuationVariable.csprojAssemblyReference.cache

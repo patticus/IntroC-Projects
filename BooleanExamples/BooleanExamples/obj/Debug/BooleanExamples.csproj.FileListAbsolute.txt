@@ -1,0 +1,6 @@
+C:\Users\Pat\source\repos\BooleanExamples\BooleanExamples\bin\Debug\BooleanExamples.exe.config
+C:\Users\Pat\source\repos\BooleanExamples\BooleanExamples\bin\Debug\BooleanExamples.exe
+C:\Users\Pat\source\repos\BooleanExamples\BooleanExamples\bin\Debug\BooleanExamples.pdb
+C:\Users\Pat\source\repos\BooleanExamples\BooleanExamples\obj\Debug\BooleanExamples.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\BooleanExamples\BooleanExamples\obj\Debug\BooleanExamples.exe
+C:\Users\Pat\source\repos\BooleanExamples\BooleanExamples\obj\Debug\BooleanExamples.pdb

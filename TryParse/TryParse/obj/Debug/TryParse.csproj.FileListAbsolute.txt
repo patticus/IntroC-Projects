@@ -1,0 +1,6 @@
+C:\Users\Pat\source\repos\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\Pat\source\repos\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\Users\Pat\source\repos\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\Users\Pat\source\repos\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\Users\Pat\source\repos\TryParse\TryParse\obj\Debug\TryParse.pdb

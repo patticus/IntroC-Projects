@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe.config
+C:\Users\Pat\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe
+C:\Users\Pat\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+C:\Users\Pat\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.exe
+C:\Users\Pat\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.pdb

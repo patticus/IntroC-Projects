@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.exe.config
+C:\Users\Pat\source\repos\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.exe
+C:\Users\Pat\source\repos\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.pdb
+C:\Users\Pat\source\repos\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.exe
+C:\Users\Pat\source\repos\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.pdb

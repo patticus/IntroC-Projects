@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\StopSign\StopSign\bin\Debug\StopSign.exe.config
+C:\Users\Pat\source\repos\StopSign\StopSign\bin\Debug\StopSign.exe
+C:\Users\Pat\source\repos\StopSign\StopSign\bin\Debug\StopSign.pdb
+C:\Users\Pat\source\repos\StopSign\StopSign\obj\Debug\StopSign.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\StopSign\StopSign\obj\Debug\StopSign.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\StopSign\StopSign\obj\Debug\StopSign.exe
+C:\Users\Pat\source\repos\StopSign\StopSign\obj\Debug\StopSign.pdb

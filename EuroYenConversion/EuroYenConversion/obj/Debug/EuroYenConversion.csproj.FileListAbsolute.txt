@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\EuroYenConversion\EuroYenConversion\bin\Debug\EuroYenConversion.exe.config
+C:\Users\Pat\source\repos\EuroYenConversion\EuroYenConversion\bin\Debug\EuroYenConversion.exe
+C:\Users\Pat\source\repos\EuroYenConversion\EuroYenConversion\bin\Debug\EuroYenConversion.pdb
+C:\Users\Pat\source\repos\EuroYenConversion\EuroYenConversion\obj\Debug\EuroYenConversion.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\EuroYenConversion\EuroYenConversion\obj\Debug\EuroYenConversion.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\EuroYenConversion\EuroYenConversion\obj\Debug\EuroYenConversion.exe
+C:\Users\Pat\source\repos\EuroYenConversion\EuroYenConversion\obj\Debug\EuroYenConversion.pdb

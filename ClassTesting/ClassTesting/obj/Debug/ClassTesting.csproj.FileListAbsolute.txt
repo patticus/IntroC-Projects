@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\ClassTesting\ClassTesting\bin\Debug\ClassTesting.exe.config
+C:\Users\Pat\source\repos\ClassTesting\ClassTesting\bin\Debug\ClassTesting.exe
+C:\Users\Pat\source\repos\ClassTesting\ClassTesting\bin\Debug\ClassTesting.pdb
+C:\Users\Pat\source\repos\ClassTesting\ClassTesting\obj\Debug\ClassTesting.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\ClassTesting\ClassTesting\obj\Debug\ClassTesting.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\ClassTesting\ClassTesting\obj\Debug\ClassTesting.exe
+C:\Users\Pat\source\repos\ClassTesting\ClassTesting\obj\Debug\ClassTesting.pdb

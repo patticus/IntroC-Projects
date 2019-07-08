@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\BankingFinal\BankingFinal\bin\Debug\BankingFinal.exe.config
+C:\Users\Pat\source\repos\BankingFinal\BankingFinal\bin\Debug\BankingFinal.exe
+C:\Users\Pat\source\repos\BankingFinal\BankingFinal\bin\Debug\BankingFinal.pdb
+C:\Users\Pat\source\repos\BankingFinal\BankingFinal\obj\Debug\BankingFinal.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\BankingFinal\BankingFinal\obj\Debug\BankingFinal.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\BankingFinal\BankingFinal\obj\Debug\BankingFinal.exe
+C:\Users\Pat\source\repos\BankingFinal\BankingFinal\obj\Debug\BankingFinal.pdb

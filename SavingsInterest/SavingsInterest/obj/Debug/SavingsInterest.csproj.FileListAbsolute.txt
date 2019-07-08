@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\SavingsInterest\SavingsInterest\bin\Debug\SavingsInterest.exe.config
+C:\Users\Pat\source\repos\SavingsInterest\SavingsInterest\bin\Debug\SavingsInterest.exe
+C:\Users\Pat\source\repos\SavingsInterest\SavingsInterest\bin\Debug\SavingsInterest.pdb
+C:\Users\Pat\source\repos\SavingsInterest\SavingsInterest\obj\Debug\SavingsInterest.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\SavingsInterest\SavingsInterest\obj\Debug\SavingsInterest.exe
+C:\Users\Pat\source\repos\SavingsInterest\SavingsInterest\obj\Debug\SavingsInterest.pdb
+C:\Users\Pat\source\repos\SavingsInterest\SavingsInterest\obj\Debug\SavingsInterest.csprojAssemblyReference.cache

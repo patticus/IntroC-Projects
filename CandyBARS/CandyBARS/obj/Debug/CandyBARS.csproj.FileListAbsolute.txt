@@ -1,0 +1,7 @@
+C:\Users\Pat\source\repos\CandyBARS\CandyBARS\bin\Debug\CandyBARS.exe.config
+C:\Users\Pat\source\repos\CandyBARS\CandyBARS\bin\Debug\CandyBARS.exe
+C:\Users\Pat\source\repos\CandyBARS\CandyBARS\bin\Debug\CandyBARS.pdb
+C:\Users\Pat\source\repos\CandyBARS\CandyBARS\obj\Debug\CandyBARS.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\CandyBARS\CandyBARS\obj\Debug\CandyBARS.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\CandyBARS\CandyBARS\obj\Debug\CandyBARS.exe
+C:\Users\Pat\source\repos\CandyBARS\CandyBARS\obj\Debug\CandyBARS.pdb

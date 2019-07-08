@@ -1,0 +1,7 @@
+C:\Projects\LeapYearAlt\LeapYearAlt\bin\Debug\LeapYearAlt.exe.config
+C:\Projects\LeapYearAlt\LeapYearAlt\bin\Debug\LeapYearAlt.exe
+C:\Projects\LeapYearAlt\LeapYearAlt\bin\Debug\LeapYearAlt.pdb
+C:\Projects\LeapYearAlt\LeapYearAlt\obj\Debug\LeapYearAlt.csprojAssemblyReference.cache
+C:\Projects\LeapYearAlt\LeapYearAlt\obj\Debug\LeapYearAlt.csproj.CoreCompileInputs.cache
+C:\Projects\LeapYearAlt\LeapYearAlt\obj\Debug\LeapYearAlt.exe
+C:\Projects\LeapYearAlt\LeapYearAlt\obj\Debug\LeapYearAlt.pdb
